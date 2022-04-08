@@ -1,0 +1,30 @@
+div {
+    background-color: blue;
+}
+
+p {
+    background-color: aqua;
+    width: 400px;
+    max-width: 400px;
+    text-align: center;
+    margin-left: 350px;
+    padding: 50px 30px;
+    font-size: 21px;
+    border-radius: 9px;
+}
+
+ul {
+    background-color: blueviolet;
+    margin-bottom: 19px;
+    padding: 50px 40px;
+    text-align: center;
+    }
+
+ul li {
+    text-decoration: none;
+}
+
+a {
+    background-color: yellowgreen;
+    text-decoration: none;
+}
